@@ -98,23 +98,23 @@ flutter run
 
 ### Ana Sayfa
 
-![Ana Sayfa](./screenshots/home1.png) ![Ana Sayfa](./screenshots/home2.png)
+![Ana Sayfa](./assets/screenshots/home1.png) ![Ana Sayfa](./assets/screenshots/home2.png)
 
 ### Arama Butonu
 
-![Ürün Detay](./screenshots/search1.png) ![Ürün Detay](./screenshots/search2.png)
+![Ürün Detay](./assets/screenshots/search1.png) ![Ürün Detay](./assets/screenshots/search2.png)
 
 ### Ürün Detay Sayfası
 
-![Ürün Detay](./screenshots/detail.png)
+![Ürün Detay](./assets/screenshots/detail.png)
 
 ### Sepet Sayfası
 
-![Eklenmiş Ürün](./screenshots/cart1.png) ![Sepet Detay](./screenshots/cartdetail1.png)
+![Eklenmiş Ürün](./assets/screenshots/cart1.png) ![Sepet Detay](./assets/screenshots/cartdetail1.png)
 
 ### Sepette Ürün Silme
 
-![Eklenmiş Ürün](./screenshots/cartdetail2.png)
+![Eklenmiş Ürün](./assets/screenshots/cartdetail2.png)
 
 ---
 
