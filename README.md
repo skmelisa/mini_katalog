@@ -3,7 +3,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-3.x-blue)
 ![Dart](https://img.shields.io/badge/Dart-3.x-blue)
 ![Platform](https://img.shields.io/badge/Platform-Android-green)
-![License](https://img.shields.io/badge/License-Educational-lightgrey
+![License](https://img.shields.io/badge/License-Educational-lightgrey)
 
 ## Proje Hakkında
 
@@ -98,23 +98,23 @@ flutter run
 
 ### Ana Sayfa
 
-![Ana Sayfa](screenshots/home1.png) ![Ana Sayfa](screenshots/home2.png)
+![Ana Sayfa](./screenshots/home1.png) ![Ana Sayfa](./screenshots/home2.png)
 
 ### Arama Butonu
 
-![Ürün Detay](screenshots/search1.png) ![Ürün Detay](screenshots/search2.png)
+![Ürün Detay](./screenshots/search1.png) ![Ürün Detay](./screenshots/search2.png)
 
 ### Ürün Detay Sayfası
 
-![Ürün Detay](screenshots/detail.png)
+![Ürün Detay](./screenshots/detail.png)
 
 ### Sepet Sayfası
 
-![Eklenmiş Ürün](screenshots/cart1.png) ![Sepet Detay](screenshots/cartdetail1.png)
+![Eklenmiş Ürün](./screenshots/cart1.png) ![Sepet Detay](./screenshots/cartdetail1.png)
 
 ### Sepette Ürün Silme
 
-![Eklenmiş Ürün](screenshots/cartdetail2.png)
+![Eklenmiş Ürün](./screenshots/cartdetail2.png)
 
 ---
 
