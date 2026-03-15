@@ -1,7 +1,7 @@
 # Mini Katalog Uygulaması
 
-![Flutter](https://img.shields.io/badge/Flutter-3.x-blue)
-![Dart](https://img.shields.io/badge/Dart-3.x-blue)
+![Flutter](https://img.shields.io/badge/Flutter-3.41.4-blue)
+![Dart](https://img.shields.io/badge/Dart-3.11.1-blue)
 ![Platform](https://img.shields.io/badge/Platform-Android-green)
 ![License](https://img.shields.io/badge/License-Educational-lightgrey)
 
